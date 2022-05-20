@@ -1,9 +1,9 @@
 {
   "game_title": "COD: Warzone",
   "forecast_title": "Today's Forecast",
-  "forecast_message": "Unplayable, you will find cheaters on first circle and reporting isn't working.",
+  "forecast_message": "Ricochet anti-cheat seems to be working, but still some [TTV] clan members in some servers.",
   "playability_title": "Playability:",
-  "playability_value": "10%",
+  "playability_value": "80%",
   "cheaters_index_title": "Cheater's Index:",
-  "cheaters_index_value": "7 of 10"
+  "cheaters_index_value": "3 of 10"
 }
